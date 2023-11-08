@@ -1,0 +1,13 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.13
+  - dash==2.10.2
+  - dash-leaflet==0.1.23
+  - dash-extensions==1.0.1
+  - shapely==2.0.1
+  - pandas==1.4.4
+  - geopandas==0.13.2
+  - protobuf==3.20.0
+  - gunicorn

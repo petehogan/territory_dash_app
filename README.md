@@ -27,4 +27,4 @@ Peter Hogan, peterhogan42@gmail.com
 
 ## Demo
 
-![](https://github.com/petehogan/territory_dash_app/dashgif.gif)
+![](https://github.com/petehogan/territory_dash_app/blob/main/dashgif.gif)
